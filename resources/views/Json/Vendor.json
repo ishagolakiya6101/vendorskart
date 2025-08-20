@@ -1,0 +1,17 @@
+{
+    "fields":[
+        {
+            "name":"name",
+            "type":"string",
+            "html_type":"text",
+            "rules":"required"
+        },
+        {
+            "name":"category_id",
+            "type":"unsignedBigInteger",
+            "html_type":"select:id,name",
+            "foriegn":"vendor_categories",
+            "rules":"required"
+        }
+    ]
+}

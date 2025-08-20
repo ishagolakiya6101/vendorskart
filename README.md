@@ -1,0 +1,2 @@
+# Vendorskart
+Vendorskart is designed to streamline vendor and product management for businesses of all sizes. The platform offers a user-friendly interface for vendors, customers, and administrators, enabling seamless registration, product listing, order processing, and analytics. With robust authentication and a modular structure, Vendorskart provides a scalable solution for e-commerce operations, ensuring efficient workflows and secure transactions.

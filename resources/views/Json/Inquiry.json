@@ -1,0 +1,24 @@
+{
+    "fields":[
+        {
+            "name":"material",
+            "type":"unsignedBigInteger",
+            "html_type":"select:id,name",
+            "foriegn":"materials",
+            "rules":"required"
+        },
+        {
+            "name":"quantity",
+            "type":"integer",
+            "html_type":"number",
+            "rules":"required"
+        },
+        {
+            "name":"company_id",
+            "type":"unsignedBigInteger",
+            "html_type":"select:id,name",
+            "foriegn":"companies",
+            "rules":"required"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+/*{
+    //add fields you want to add in table and rules for validation
+    "fields":[
+        {
+            "name":"name",
+            "type":"string",
+            "rules":"required"
+        }
+    ],
+    "data":[
+        {
+            "name":"admin",
+            "date":"11/01/2024"
+        }
+    ]
+}*/

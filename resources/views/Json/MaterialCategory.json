@@ -1,0 +1,10 @@
+{
+    "fields":[
+        {
+            "name":"name",
+            "type":"string",
+            "html_type":"text",
+            "rules":"required"
+        }
+    ]
+}
