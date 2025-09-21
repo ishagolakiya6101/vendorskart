@@ -25,7 +25,7 @@ Vendorskart is a comprehensive vendor management and e-commerce platform built w
     git clone https://github.com/yourusername/vendorskart.git
     ```
 2. Move the project to your XAMPP `htdocs` directory.
-3. Import the database from `database/vendorskart.sql` using phpMyAdmin.
+3. Migrate and seed data using phpMyAdmin.
 4. Update database credentials in `config.php`.
 5. Start Apache and MySQL from XAMPP Control Panel.
 6. Access the app at `http://localhost/vendorskart`.
